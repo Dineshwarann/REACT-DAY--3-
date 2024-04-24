@@ -9,5 +9,5 @@ FUNCTIONALIES :
 *Remove from Cart button will again be replaced by Add to Cart
 ~
 
--[Live Server](https://reactshoppingcartbyfabianrajafernando.netlify.app/)
+-[Live Server](https://shoppingcarttaskreactday3.netlify.app/)
 
